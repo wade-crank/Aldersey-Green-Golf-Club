@@ -819,9 +819,12 @@ section {
 
 .portfolio .portfolio-wrap {
   transition: 0.3s;
+  /* object-position: 50% 50%; */
   position: relative;
   overflow: hidden;
   z-index: 1;
+  /* height: 350px;
+  width: 350px; */
 }
 
 .portfolio .portfolio-wrap::before {
