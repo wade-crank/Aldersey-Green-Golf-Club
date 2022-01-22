@@ -1045,6 +1045,7 @@ section {
 
 .team .member .pic {
   overflow: hidden;
+  object-position: 50% 50%;
 }
 
 .team .member .member-info {
