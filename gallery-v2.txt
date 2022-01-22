@@ -1,0 +1,175 @@
+<div class="row portfolio-container" data-aos="fade-up">
+    <div class="col-lg-4 col-md-6 portfolio-item filter-tee">
+      <div class="portfolio-wrap">
+        <img src="assets/img/portfolio/1 Tee_fairway.jpg" class="img-fluid" alt="">
+        <!-- <div class="portfolio-links">
+          <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+          <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+        </div> -->
+      </div>
+    </div>
+
+    <div class="row portfolio-container" data-aos="fade-up">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-fairway">
+        <div class="portfolio-wrap">
+          <img src="assets/img/portfolio/3 Fairway.jpeg" class="img-fluid" alt="">
+          <!-- <div class="portfolio-links">
+            <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+            <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+          </div> -->
+        </div>
+      </div>
+
+      <div class="row portfolio-container" data-aos="fade-up">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-green">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/3 Green.jpeg" class="img-fluid" alt="">
+            <!-- <div class="portfolio-links">
+              <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+              <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+            </div> -->
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-tee">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/3 Tee.jpg" class="img-fluid" alt="">
+              <!-- <div class="portfolio-links">
+                <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div> -->
+            </div>
+          </div>
+
+          <div class="row portfolio-container" data-aos="fade-up">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-green">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/5 Green.jpg" class="img-fluid" alt="">
+                <!-- <div class="portfolio-links">
+                  <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                  <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div> -->
+              </div>
+            </div>
+
+            <div class="row portfolio-container" data-aos="fade-up">
+              <div class="col-lg-4 col-md-6 portfolio-item filter-fairway">
+                <div class="portfolio-wrap">
+                  <img src="assets/img/portfolio/8 fairway.jpg" class="img-fluid" alt="">
+                  <!-- <div class="portfolio-links">
+                    <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                    <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                  </div> -->
+                </div>
+              </div>
+
+              <div class="row portfolio-container" data-aos="fade-up">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-fairway">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/8 Fairway.jpeg" class="img-fluid" alt="">
+                    <!-- <div class="portfolio-links">
+                      <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                      <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                    </div> -->
+                  </div>
+                </div>
+
+                <div class="row portfolio-container" data-aos="fade-up">
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-green">
+                    <div class="portfolio-wrap">
+                      <img src="assets/img/portfolio/9 Green 2.JPG" class="img-fluid" alt="">
+                      <!-- <div class="portfolio-links">
+                        <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                        <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                      </div> -->
+                    </div>
+                  </div>
+
+                  <div class="row portfolio-container" data-aos="fade-up">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fairway">
+                      <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/10 fairway.jpg" class="img-fluid" alt="">
+                        <!-- <div class="portfolio-links">
+                          <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                          <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                        </div> -->
+                      </div>
+                    </div>
+
+                    <div class="row portfolio-container" data-aos="fade-up">
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-green">
+                        <div class="portfolio-wrap">
+                          <img src="assets/img/portfolio/10 Green.jpg" class="img-fluid" alt="">
+                          <!-- <div class="portfolio-links">
+                            <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                            <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                          </div> -->
+                        </div>
+                      </div>
+
+                      <div class="row portfolio-container" data-aos="fade-up">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-fairway">
+                          <div class="portfolio-wrap">
+                            <img src="assets/img/portfolio/12 Fairway.jpeg" class="img-fluid" alt="">
+                            <!-- <div class="portfolio-links">
+                              <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                              <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div> -->
+                          </div>
+                        </div>
+
+                        <div class="row portfolio-container" data-aos="fade-up">
+                          <div class="col-lg-4 col-md-6 portfolio-item filter-green">
+                            <div class="portfolio-wrap">
+                              <img src="assets/img/portfolio/12 Green.jpg" class="img-fluid" alt="">
+                              <!-- <div class="portfolio-links">
+                                <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                                <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                              </div> -->
+                            </div>
+                          </div>
+
+                          <div class="row portfolio-container" data-aos="fade-up">
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-green">
+                              <div class="portfolio-wrap">
+                                <img src="assets/img/portfolio/16 Green.jpeg" class="img-fluid" alt="">
+                                <!-- <div class="portfolio-links">
+                                  <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                                  <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                                </div> -->
+                              </div>
+                            </div>
+
+                            <div class="row portfolio-container" data-aos="fade-up">
+                              <div class="col-lg-4 col-md-6 portfolio-item filter-sim">
+                                <div class="portfolio-wrap">
+                                  <img src="assets/img/portfolio/sim room 2 .jpg" class="img-fluid" alt="">
+                                  <!-- <div class="portfolio-links">
+                                    <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                                    <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                                  </div> -->
+                                </div>
+                              </div>
+
+                              <div class="row portfolio-container" data-aos="fade-up">
+                                <div class="col-lg-4 col-md-6 portfolio-item filter-sim">
+                                  <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/sim room.jpg" class="img-fluid" alt="">
+                                    <!-- <div class="portfolio-links">
+                                      <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                                      <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                                    </div> -->
+                                  </div>
+                                </div>
+
+                                <div class="row portfolio-container" data-aos="fade-up">
+                                  <div class="col-lg-4 col-md-6 portfolio-item filter-sim">
+                                    <div class="portfolio-wrap">
+                                      <img src="assets/img/portfolio/Sim Room Player.jpg" class="img-fluid" alt="">
+                                      <!-- <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/1 Tee_fairway.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fairway 1"><i class="bx bx-plus"></i></a>
+                                        <a href="./Hole1.html" title="More Details"><i class="bx bx-link"></i></a>
+                                      </div> -->
+                                    </div>
+                                  </div>
